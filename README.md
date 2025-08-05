@@ -29,3 +29,23 @@ Projeto prático para entender o **ciclo de vida dos beans no Spring Framework**
 
 ---
 
+## 📁 Estrutura sugerida do projeto
+
+```css
+spring-lifecycle/
+└── src/
+    └── main/
+        ├── java/com.example.springlifecycle/
+        │   ├── SpringLifecycleApplication.java
+        │   ├── config/
+        │   │   ├── MyBeanPostProcessor.java
+        │   │   ├── MyBeanFactoryPostProcessor.java
+        │   │   └── ConfigBeans.java
+        │   └── service/
+        │       ├── ServiceA.java
+        │       ├── ServiceB.java
+        │       └── LifecycleService.java
+        └── resources/
+            └── application.yml
+```
+
