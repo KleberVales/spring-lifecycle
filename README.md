@@ -49,3 +49,5 @@ spring-lifecycle/
             └── application.yml
 ```
 
+## 📊 Fluxograma visual (simples)
+
