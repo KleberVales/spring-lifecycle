@@ -101,3 +101,13 @@ spring-lifecycle/
 ./gradlew bootRun
 ```
 
+---
+
+**Kleber Vales**  
+
+*Back-end Software Engineer*  
+Java + Spring Boot | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
+
+Bacharel em Ciência da Computação  
+MBA em Desenvolvimento de Software (Cursando)
+
