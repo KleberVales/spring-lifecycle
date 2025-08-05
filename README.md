@@ -96,4 +96,8 @@ spring-lifecycle/
 | @PreDestroy                 |  ← 🧹 Bean será destruído
 +-----------------------------+
 ```
+## ▶️ Como executar
+```bash
+▶️ Como executar
+```
 
