@@ -98,6 +98,6 @@ spring-lifecycle/
 ```
 ## ▶️ Como executar
 ```bash
-▶️ Como executar
+./gradlew bootRun
 ```
 
