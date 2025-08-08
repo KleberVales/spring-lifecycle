@@ -4,10 +4,15 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringLifecycleApplication {
+public class App {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringLifecycleApplication.class, args);
-        System.out.println("📦 Aplicação iniciada.");
+
+        SpringApplication.run(App.class, args);
+
     }
 }
+
+/* - Mostrar o ciclo de vida de todos os Beans do Spring Boot
+   - Criar Beans e mostrar o ciclo de vida desses Beans
+ */
